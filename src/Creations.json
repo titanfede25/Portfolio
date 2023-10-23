@@ -1,0 +1,65 @@
+{
+    "year": 2023,
+    "list": [
+        {
+            "name": "PoliGestion",
+            "description": "Aplicación móbil hecha para la correcta organización y distribución de policías.",
+            "image": "",
+            "link": "https://github.com/titanfede25/PoliGestionApp"
+        },
+        {
+            "name": "TPComidas",
+            "description": "Aplicación móbil que simula un menú de restaurante.",
+            "image": "",
+            "link": "https://github.com/titanfede25/TPComidas-DAI"
+        },
+        {
+            "name": "ToDoList",
+            "description": "Aplicación web gestora de cosas para realizar",
+            "image": "",
+            "link": "https://github.com/titanfede25/TODOList.git"
+        },
+        {
+            "name": "Pizza-Node",
+            "description": "API de pizzas",
+            "image": "",
+            "link": "https://github.com/titanfede25/Pizza-Node"
+        },
+        {
+            "name": "Buscador de Películas",
+            "description": "Aplicación web Buscadora de Películas según distintos campos",
+            "image": "",
+            "link": "https://github.com/titanfede25/BuscarPeliculas"
+        },
+        {
+            "name": "Gestor de Citas",
+            "description": "Aplicación web gestora de turnos de veterinaria",
+            "image": "",
+            "link": "https://github.com/titanfede25/GestionCitas"
+        },
+        {
+            "name": "Jugando Con Banderas",
+            "description": "Videojuego web de adivinanza de banderas",
+            "image": "",
+            "link": "https://github.com/titanfede25/JugandoConBanderas"
+        },
+        {
+            "name": "Disney",
+            "description": "API de personajes de Disney (Star Wars)",
+            "image": "",
+            "link": "https://github.com/titanfede25/Disney"
+        },
+        {
+            "name": "Directorio de Personas",
+            "description": "aplicación web con listas de personas con estadísticas.",
+            "image": "",
+            "link": "https://github.com/titanfede25/DirectorioPersonas"
+        },
+        {
+            "name": "Catálogo de Productos",
+            "description": "Ecomerce de distintos productos",
+            "image": "",
+            "link": "https://github.com/titanfede25/CatalogoProductos"
+        }
+    ]
+}
