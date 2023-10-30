@@ -4,13 +4,14 @@ import '../index.css';
 const Layout = () => {
   return (
     <> 
+    <header>
       <nav>
         <ul>
           <li>
-            <Link to="/">Home</Link>
+            <Link to="/">Federico Sznajderhaus</Link>
           </li>
           <li>
-            <Link to="/">Nuestras Creaciones</Link>
+            <Link to="/Creations">Mis Creaciones</Link>
           </li>
           <li>
             <Link to="/Info">Información Personal</Link>
@@ -18,15 +19,20 @@ const Layout = () => {
           <li>
             <Link to="/Info">favoritos</Link>
           </li>
-          <li>
-            <Link to="/Contact">Contact</Link>
-          </li>
-          <li>
-            Perfil de LinkedIn
+        </ul>
+      </nav>
+      </header>
+      
+      <Outlet />
+      <footer>
+      <nav>
+        <ul>
+        <li>
+            <Link to="/Contact">Contacto</Link>
           </li>
         </ul>
       </nav>
-      <Outlet />
+      </footer>
     </>
   )
 };

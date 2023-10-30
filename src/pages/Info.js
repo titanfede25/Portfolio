@@ -6,14 +6,8 @@ export default function Home() {
       <div className="TituloLista">
       Info
       </div>
-      Federico Sznajderhaus & Leonel Merino
-      {/*Personas.map((persona) => (
-        <div className="Listita">
-        <div key={persona.id}>
-          <Link to={`/Persona/${persona.id}`}><div className="NombreLista">{persona.nombre} {persona.apellido}</div></Link> 
-        </div>
-        </div>
-      ))*/}
+      Me llamo Federico Sznajderhaus. Soy un estudiante de Ort, sede Almagro y soy alumno de informática. Soy muy bueno en todo lo relacionado en la matemática y en la lógica. Me gusta jugar al basket, los videojuegos y salir de fiesta. A la hora de trabajar, soy muy organizado, me destaco por mis destalles, siempre intento dar lo mejor de mí y poseo habilidades de liderazgo.
+      
     </div>
   );
 }

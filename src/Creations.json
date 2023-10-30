@@ -4,61 +4,49 @@
         {
             "name": "PoliGestion",
             "description": "Aplicación móbil hecha para la correcta organización y distribución de policías.",
-            "image": "",
+            "image": "https://drive.google.com/uc?export=view&id=1l8vZI7KoP5k2PHzW2pgFhmXBm8QWswm3",
             "link": "https://github.com/titanfede25/PoliGestionApp"
         },
         {
             "name": "TPComidas",
             "description": "Aplicación móbil que simula un menú de restaurante.",
-            "image": "",
+            "image": "https://drive.google.com/file/d/1JoBRgZaxXiTRd2OffHhftl-7kbYNx43T/view?usp=drive_link",
             "link": "https://github.com/titanfede25/TPComidas-DAI"
         },
         {
             "name": "ToDoList",
             "description": "Aplicación web gestora de cosas para realizar",
-            "image": "",
+            "image": "https://drive.google.com/uc?export=view&id=1X9gWnxLOm0Q884WQLoEN8HH2Z5F2nXxR",
             "link": "https://github.com/titanfede25/TODOList.git"
-        },
-        {
-            "name": "Pizza-Node",
-            "description": "API de pizzas",
-            "image": "",
-            "link": "https://github.com/titanfede25/Pizza-Node"
         },
         {
             "name": "Buscador de Películas",
             "description": "Aplicación web Buscadora de Películas según distintos campos",
-            "image": "",
+            "image": "https://drive.google.com/uc?export=view&id=1gShNHPZF2SvehCr9o8yMHSorzmbEj0SO",
             "link": "https://github.com/titanfede25/BuscarPeliculas"
         },
         {
             "name": "Gestor de Citas",
             "description": "Aplicación web gestora de turnos de veterinaria",
-            "image": "",
+            "image": "https://drive.google.com/uc?export=view&id=12azb4gqNsoY0LGQtU6SCRh1UCUihlufe",
             "link": "https://github.com/titanfede25/GestionCitas"
         },
         {
             "name": "Jugando Con Banderas",
             "description": "Videojuego web de adivinanza de banderas",
-            "image": "",
+            "image": "https://drive.google.com/uc?export=view&id=1oPOu_B7d20Pbe5MN0QdBk-V11i5nYF06",
             "link": "https://github.com/titanfede25/JugandoConBanderas"
-        },
-        {
-            "name": "Disney",
-            "description": "API de personajes de Disney (Star Wars)",
-            "image": "",
-            "link": "https://github.com/titanfede25/Disney"
         },
         {
             "name": "Directorio de Personas",
             "description": "aplicación web con listas de personas con estadísticas.",
-            "image": "",
+            "image": "https://drive.google.com/uc?export=view&id=1lBy99Opx6cI5WAXtRbR542hW6H1jxML5",
             "link": "https://github.com/titanfede25/DirectorioPersonas"
         },
         {
             "name": "Catálogo de Productos",
             "description": "Ecomerce de distintos productos",
-            "image": "",
+            "image": "https://drive.google.com/uc?export=view&id=1HKms4phCHSH7GyPNiCV2sKiF0PjM0pi7",
             "link": "https://github.com/titanfede25/CatalogoProductos"
         }
     ]
