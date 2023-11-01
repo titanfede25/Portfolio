@@ -8,12 +8,11 @@ export default function Creations() {
       Federico Sznajderhaus - Mis creaciones 
       </div>
       {Creaciones.list.map((creacion) => (
-          <div >
+          <div ><Link to={`/Creation/${creacion.name}`}>
           <div className="Listita">
-            {/*<Link to={}>*/}<div className="NombreLista">{creacion.name}</div>{/*</Link>*/} 
-            
+            <div className="NombreLista">{creacion.name}</div>
           </div>
-          <img src={creacion.image} className="image"/>
+          <img src={creacion.image} className="image"/></Link>
           </div>
         ))}
     </div>
