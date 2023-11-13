@@ -3,7 +3,7 @@ import Creaciones from "../Creations.json";
 
 export default function Creations() {
   return (
-    <div>
+    <div ><br></br><br></br><br></br><br></br>
       <div className="TituloLista">
       Federico Sznajderhaus - Mis creaciones 
       </div>
@@ -15,6 +15,6 @@ export default function Creations() {
           <img src={creacion.image} className="image"/></Link>
           </div>
         ))}
-    </div>
+    <br></br></div>
   );
 }

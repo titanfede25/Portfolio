@@ -24,7 +24,7 @@ export default function Creation() {
   };
 
   return (
-    <>
+    <><br></br><br></br><br></br><br></br>
       <div className="DetallesPersona">
         <h1>{`Nombre del proyecto: ${creacion.name}`}</h1>
         <h1>{`Descripción: ${creacion.description}`}</h1>

@@ -4,7 +4,7 @@ import Creaciones from "../Creations.json";
 export default function Home() {
   console.log(localStorage.getItem('favoritos'))
   return (
-    <div>
+    <div><br></br><br></br><br></br><br></br>
       <div className="TituloLista">
       Federico Sznajderhaus - Mis Destacados 
       </div>
@@ -50,6 +50,6 @@ export default function Home() {
         </div>
         <img src={Creaciones.list[6].image} className="image"/></Link>
         </div>
-    </div>
+        <br></br></div>
   );
 }

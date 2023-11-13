@@ -4,7 +4,7 @@ import '../index.css';
 const Layout = () => {
   return (
     <> 
-    <header>
+    <header style={{ position: "fixed", left: "0", top: "0", right: "0", padding: "10px" }}>
       <nav>
         <ul>
           <li>
@@ -24,12 +24,21 @@ const Layout = () => {
       </header>
       
       <Outlet />
-      <footer>
+      <footer >
       <nav>
         <ul>
         <li>
             <Link to="/Contact">Contacto</Link>
           </li>
+          <li>
+          <Link to="https://www.instagram.com/fede_haus/">
+        <img src="https://th.bing.com/th/id/OIP.-ZirgQE5pr8e7htQWowJIgHaHa?pid=ImgDet&rs=1" style={{ width: "5%", height: "auto" }} className=""/>
+        </Link>
+        <Link to="https://www.linkedin.com/in/federico-sznajderhaus-46299724b/">
+        <img src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw" style={{ width: "5%", height: "auto" }} className=""/>
+        </Link>
+          </li>
+         
         </ul>
       </nav>
       </footer>

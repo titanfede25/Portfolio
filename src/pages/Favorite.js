@@ -18,7 +18,7 @@ export default function Creations() {
       };
 
   return (
-    <div>
+    <div><br></br><br></br><br></br><br></br>
       <div className="TituloLista">
       Favoritos 
       </div>
@@ -35,6 +35,6 @@ export default function Creations() {
             </button>
           </div>
         ))}
-    </div>
+    <br></br><br></br><br></br><br></br></div>
   );
 }
