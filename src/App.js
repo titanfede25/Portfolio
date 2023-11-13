@@ -7,6 +7,7 @@ import Contact from "./pages/Contact";
 import Info from "./pages/Info";
 import Creations from "./pages/Creations";
 import Creation from "./pages/Creation";
+import Favorite from "./pages/Favorite";
 
 export default function App() {
   return (
@@ -19,6 +20,7 @@ export default function App() {
           <Route path="/Info" element={<Info />} />
           <Route path="/Creations" element={<Creations />} />
           <Route path="/Creation/:name" element={<Creation />} />
+          <Route path="/Favorite" element={<Favorite />} />
         </Route>
       </Routes>
     </BrowserRouter>

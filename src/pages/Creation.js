@@ -16,9 +16,11 @@ export default function Creation() {
   }, []);
 
   const submit = () => {
-    const nuevosFavoritos = [...favoritos, creacion];
-    setFavoritos(nuevosFavoritos);
-    localStorage.setItem('favoritos', JSON.stringify(nuevosFavoritos));
+    if (!favoritos.some(favorito => favorito.name === creacion.name)) {
+      const nuevosFavoritos = [...favoritos, creacion];
+      setFavoritos(nuevosFavoritos);
+      localStorage.setItem('favoritos', JSON.stringify(nuevosFavoritos));
+    }
   };
 
   return (
