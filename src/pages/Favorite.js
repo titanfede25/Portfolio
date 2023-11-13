@@ -30,9 +30,10 @@ export default function Creations() {
               </div>
               <img src={favorito.image} className="image"/>
             </Link>
+            <div className="center">
             <button onClick={() => bye(favorito.name)} className="NombreLista">
               <Link to="/">Eliminar</Link>
-            </button>
+            </button></div>
           </div>
         ))}
     <br></br><br></br><br></br><br></br></div>
